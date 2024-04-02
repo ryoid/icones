@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.0",
   "private": true,
-  "packageManager": "pnpm@8.15.5",
+  "packageManager": "pnpm@8.15.6",
   "author": "Anthony Fu<https://github.com/antfu>",
   "license": "MIT",
   "homepage": "https://github.com/antfu/icones#readme",
@@ -29,7 +29,7 @@
   "dependencies": {
     "@antfu/utils": "^0.7.7",
     "@vueuse/core": "^10.9.0",
-    "dexie": "^3.2.5",
+    "dexie": "^3.2.7",
     "file-saver": "^2.0.5",
     "fzf": "^0.5.2",
     "hotkeys-js": "^3.13.7",
@@ -40,7 +40,7 @@
     "vue-router": "^4.3.0"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^2.11.6",
+    "@antfu/eslint-config": "^2.12.1",
     "@iconify/json": "^2.2.196",
     "@purge-icons/generated": "^0.10.0",
     "@types/file-saver": "^2.0.7",
@@ -54,7 +54,7 @@
     "fs-extra": "^11.2.0",
     "jszip": "^3.10.1",
     "lru-cache": "^10.2.0",
-    "pnpm": "8.10.2",
+    "pnpm": "8.15.6",
     "svg-packer": "^0.0.3",
     "typescript": "^5.4.3",
     "unocss": "^0.58.9",
